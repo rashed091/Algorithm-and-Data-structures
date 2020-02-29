@@ -1,5 +1,6 @@
 {
     "editor.formatOnPaste": true,
     "code-runner.clearPreviousOutput": true,
-    "python.pythonPath": "/home/rashed/.virtualenvs/algorithm/bin/python"
+    "python.pythonPath": "/home/rashed/.virtualenvs/algorithm/bin/python",
+    "python.formatting.provider": "yapf"
 }
