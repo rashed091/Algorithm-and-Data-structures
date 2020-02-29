@@ -1,4 +1,5 @@
 {
     "editor.formatOnPaste": true,
-    "code-runner.clearPreviousOutput": true
+    "code-runner.clearPreviousOutput": true,
+    "python.pythonPath": "/home/rashed/.virtualenvs/algorithm/bin/python"
 }
